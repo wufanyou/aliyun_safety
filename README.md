@@ -62,6 +62,4 @@ fanyou.wu@outlook.com
 * Logistic regression 单模型
 
 
-#### 端口扫描爆破源码
-ps: 写的时候不会用over 函数，很多join，很丑。
 
